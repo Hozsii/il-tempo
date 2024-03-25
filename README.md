@@ -5,4 +5,3 @@ Built with
 * CSS
 * JS
 * Weather API
-
